@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineFeedback",
+        "repositoryURL": "https://github.com/sergdort/CombineFeedback.git",
+        "state": {
+          "branch": "master",
+          "revision": "d7739cd9625c80873a4462528fb8d64a09f2fc5f",
+          "version": null
+        }
+      },
+      {
+        "package": "Thresher",
+        "repositoryURL": "https://github.com/mluisbrown/Thresher.git",
+        "state": {
+          "branch": "master",
+          "revision": "37b1067465d726383c3da93db6886ac633b58847",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
